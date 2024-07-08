@@ -1,0 +1,4 @@
+1720418583s 1 https://dandiarchive.s3.amazonaws.com/zarr/ccefbc9f-30e7-4a4c-b044-5b59d300040b/dataset_1/.zattrs?versionId=stKgzMEpf6XA.gVDzZ7bX3To2eyxvH8J
+1720418583s 1 https://api.dandiarchive.org/api/zarr/ccefbc9f-30e7-4a4c-b044-5b59d300040b/files?prefix=dataset_1%2F.zattrs&download=true
+1720418583s 1 https://dandiarchive.s3.amazonaws.com/zarr/ccefbc9f-30e7-4a4c-b044-5b59d300040b/dataset_2/.zattrs?versionId=tE2lnnf9tBbEClEzTe4vHytdOHQTGJqr
+1720418583s 1 https://api.dandiarchive.org/api/zarr/ccefbc9f-30e7-4a4c-b044-5b59d300040b/files?prefix=dataset_2%2F.zattrs&download=true
